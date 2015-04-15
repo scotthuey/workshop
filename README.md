@@ -18,3 +18,4 @@ In this workshop you will learn how to leverage GitHub to collaborate with other
 10. Creating a Pull Request
 11. Collaborating with Others
 12. Search the Repository for your Issue and Favorite Presentation
+13. Lunch!
